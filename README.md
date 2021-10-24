@@ -1,2 +1,2 @@
 # CheckList
-CheckList com JPA utilizando Hibernate
+todo list com API REST e JPA utilizando Hibernate
